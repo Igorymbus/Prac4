@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#42aaff</color>
+    <color name="purple">#8b00ff</color>
+    <color name="purpblack">#1b1116</color>
+    <color name="yellow">#FFCC00</color>
+    <color name="malachit">#0BDA51</color>
+    <color name="yad">#7FFF00</color>
+    <color name="siz">#79A0C1</color>
+    <color name="krich">#76FF7A</color>
+    <color name="zarya">#FD5E53</color>
+</resources>

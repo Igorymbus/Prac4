@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Prac4</string>
+    <string name="winner_messeg">Поздравляю я выиграл!</string>
+    <string name="winner_messegPC">Бот выиграл!</string>
+    <string name="draw_messeg">Ничья</string>
+</resources>
